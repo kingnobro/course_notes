@@ -18,4 +18,5 @@
 |     抽象代数     |           [@kingno](https://github.com/kingnobro)            |
 |   线性代数进阶   |           [@汪杰](https://github.com/RmZeta2718)            |
 | 信息系统安全概论 |           [@kingno](https://github.com/kingnobro)            |
+| 编译原理实践 | [@Kaisyouu](https://github.com/Kaisyouu) |
 
